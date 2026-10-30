@@ -4,3 +4,6 @@ build/
 *.map
 *.hex
 *.bin
+*.bin binary
+*.elf binary
+*.pdf binary
